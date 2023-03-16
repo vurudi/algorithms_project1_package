@@ -1,0 +1,6 @@
+this directory contains the output files as
+specified in the mystery_sorting.py file
+
+every sorted.csv file has  2000 sorted records except for
+                    the last output csv file which has less
+
